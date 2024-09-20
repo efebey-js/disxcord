@@ -1,0 +1,28 @@
+{
+  "name": "disxcord",
+  "version": "1.0.0-dev",
+  "description": "A api sender to discord, more good mean: This module allows you to create cool discord bots",
+  "main": "./sources/classes/client/starts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idk.com"
+  },
+  "keywords": [
+    "discord",
+    "discord-api",
+    "discord.js",
+    "aoi.js",
+    "bdfd",
+    "bot",
+    "client",
+    "discord-client"
+  ],
+  "author": "@frexinn & @layslover",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^14.16.2"
+  }
+}
